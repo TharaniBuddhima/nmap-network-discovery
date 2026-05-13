@@ -1,0 +1,10 @@
+# Nmap 7.98 scan initiated Wed May 13 19:53:44 2026 as: /usr/lib/nmap/nmap --privileged -sn -oN ping_scan.txt 10.125.69.8/24
+Nmap scan report for 10.125.69.129
+Host is up (0.00090s latency).
+MAC Address: C0:A8:10:74:41:54 (Intel Corporate)
+Nmap scan report for 10.125.69.211
+Host is up (0.062s latency).
+MAC Address: 7A:D2:F3:27:02:85 (Unknown)
+Nmap scan report for 10.125.69.8
+Host is up.
+# Nmap done at Wed May 13 19:53:50 2026 -- 256 IP addresses (3 hosts up) scanned in 6.37 seconds

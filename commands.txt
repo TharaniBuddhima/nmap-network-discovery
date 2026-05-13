@@ -1,0 +1,11 @@
+Ping Scan:
+nmap -sn 10.125.69.8/24
+
+Save Results:
+nmap -sn 10.125.69.8/24 -oN ping_scan.txt
+
+Extract Live Hosts:
+grep "Nmap scan report" ping_scan.txt
+
+Run Automation:
+./discover.sh
